@@ -1,0 +1,8 @@
+.homesection{
+    background:#eee;
+    text-align:center;
+    padding:150px 0px
+}
+.homesection header,main,footer{
+    padding: 20px 0px
+} 

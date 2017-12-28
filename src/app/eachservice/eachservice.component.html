@@ -1,0 +1,33 @@
+<section class="eachtopic">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <article class="eachtopicart">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                  <header class="eachtopicheader">
+                      <h3>{{topicdetail?.title | capitalize}}</h3>
+                  </header>
+              </div>
+              <div class="panel-body">
+                <main class="eachtopicmain">
+                    <p>{{topicdetail?.desc | capitalize}}</p>
+                    <div>
+                        <label for="phone">Call at</label>
+                        <a [href]="'tel:'+topicdetail?.mobile">{{topicdetail?.mobile}}</a>
+                    </div>
+                    <div>
+                      <label for="email">Mail at</label>
+                      <a [href]="'mailto:'+topicdetail?.email">{{topicdetail?.email}}</a>
+                    </div>
+                </main>
+                <footer class="eachartfoot">
+                  <a routerLink="/services" class="btn btn-default">Back to Services</a>
+                </footer>
+              </div>
+            </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>

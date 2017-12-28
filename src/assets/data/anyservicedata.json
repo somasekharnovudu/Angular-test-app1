@@ -1,0 +1,38 @@
+[
+      {
+        "head":"finance",
+        "body":[
+          "income increasing",
+          "cost optimizations",
+          "tax benefit advisor",
+          "income return advisor"
+        ]
+      },
+      {
+        "head":"real estate",
+        "body":[
+          "land marking",
+          "document processing",
+          "government valuation",
+          "surveying"
+        ]
+      },
+      {
+        "head":"vehicles",
+        "body":[
+          "vehicle advisor",
+          "loan management",
+          "emi calculator",
+          "vehicle valuation"
+        ]
+      },
+      {
+        "head":"personal",
+        "body":[
+          "food and fitness advisor",
+          "motivation",
+          "achieve any thing in life",
+          "others"
+        ]
+      }
+    ]

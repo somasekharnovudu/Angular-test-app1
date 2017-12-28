@@ -1,0 +1,122 @@
+[
+    [
+        {
+            "title":"income increasing",
+            "root":"finance",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"This is about advising about increasing the income source in parallel small amounts called packets, through this technique we can easily increase income that may needy"
+        },
+        {
+            "title":"cost optimazations",
+            "root":"finance",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"This is about advising about optimizing costs htourgh bulk buy technique and/or single window technique. when this technique practised along side of incresing income, will make huge impact "
+        },
+        {
+            "title":"tax benefit advisor",
+            "root":"finance",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"this is about the reduction of taxes by benefiting under certain schema as of it can save upto 10% of your cost"
+        },
+        {
+            "title":"income return advisor",
+            "root":"finance",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"filing income returns is an expertise practise that we can save..."
+        }
+    ],
+    [
+        {
+            "title":"land marking",
+            "root":"real estate",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"We can mark you land more accurately with our latest technologies and tools"
+        },
+        {
+            "title":"document processing",
+            "root":"real estate",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"we can process you documents to certification with our experianced Advocates so that you can relax"
+        },
+        {
+            "title":"government valuation",
+            "root":"real estate",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"we are here to value your estate properties and also provide buyers to you land in a profit way to each"
+        },
+        {
+            "title":"surverying",
+            "root":"real estate",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"we can survey you estates and measure to precise and give you the most approriate area of your estate"
+        }
+    ],
+    [
+        {
+            "title":"vehicle advisor",
+            "root":"vehicles",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"we have top talented vehicle testers and they can give the name of your dream car for your needs"
+        },
+        {
+            "title":"loan management",
+            "root":"vehicles",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"we can file up loans and process you loans with customizable emi so that you can never feel burden to pay"
+        },
+        {
+            "title":"emi calculator",
+            "root":"vehicles",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"we can provide services to split you loan into small packets as you like for each emi"
+        },
+        {
+            "title":"vehicle valuation",
+            "root":"vehicles",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"tired of old vehicle?.. dont worry we will help to valuate and sell you old vehicle"
+        }
+    ],
+    [
+        {
+            "title":"food and fitness advisor",
+            "root":"personal",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"being unhealthy is not good enough, get our best practised doctors , dietients and physiotherpists to make you healthy and happy"
+        },
+        {
+            "title":"motivation",
+            "root":"personal",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"Depression can be easily taken away be our best psychotherapists so that you can lead a happy life"
+        },
+        {
+            "title":"acheve anything in your life",
+            "root":"personal",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"need to achieve something but conrfused how to achieve? we are here!!"
+        },
+        {
+            "title":"others",
+            "root":"personal",
+            "mobile":"9876543210",
+            "email":"testmail@mymail.com",
+            "desc":"feel free to get services for you personal issues*"
+        }
+    ]
+]

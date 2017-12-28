@@ -1,0 +1,25 @@
+.header-menu{
+    padding:0px 20px;
+}
+.nav>li {
+    position: relative;
+    display: inline-block;
+}
+.header-menu ul li a{
+    font-size:20px;
+    font-weight: 700;
+    text-decoration: none;
+    color:#777;
+    transition:all 0.3s ease;
+    cursor: pointer;
+}
+.header-menu ul li a:hover{
+    font-weight: 700;
+    text-decoration: none;
+    color:#000;
+    transition:all 0.3s ease;
+}
+.active{
+    color:#000 !important;
+    background: #eee
+}

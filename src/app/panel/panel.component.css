@@ -1,0 +1,15 @@
+.panel-heading.mypanelhead {
+    font-size: 17px;
+    font-weight: 700;
+}
+.mypanelhead:hover{
+    cursor: pointer;
+}
+.panellinks a{
+    text-decoration: none;
+    color:#000
+
+}
+.mypanelhead span{
+    float:right
+}

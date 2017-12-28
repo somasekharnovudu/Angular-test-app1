@@ -1,0 +1,9 @@
+<nav class="header-menu">
+  <ul class="nav">
+    <li class="nav-item" *ngFor='let menu of menuitems'>
+      <a class="nav-link" 
+      routerLinkActive="active"
+      [routerLink]="menu">{{menu | capitalize}}</a>
+    </li>
+  </ul>
+</nav>

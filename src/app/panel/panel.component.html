@@ -1,0 +1,18 @@
+<div class="panel panel-default">
+  <div class="panel-heading mypanelhead" (click)="bodyshower()">
+    {{service?.head | capitalize}}
+    <span class="glyphicon"
+      [ngClass]="{
+        'glyphicon-chevron-up':isShow,
+        'glyphicon-chevron-down':!isShow
+      }"
+    ></span>
+  </div>
+  <div class="panel-body mypanelbody" *ngIf="isShow">
+      <ul class="list-group">
+        <li class="list-group-item panellinks" *ngFor="let each of service.body">
+          <a [routerLink]="['/services',each]" (click)="linkClicker(each)">{{each | capitalize}}</a>
+        </li>
+      </ul>
+  </div>
+</div>

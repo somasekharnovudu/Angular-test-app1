@@ -1,0 +1,12 @@
+section.eachtopic{
+    padding:20px 0px;
+    background: #eee;
+}
+.eachtopicmain{
+    padding: 10px;
+    line-height: 25px
+}
+main.eachtopicmain p{
+    font-size: 19px;
+    text-align: center;
+}
